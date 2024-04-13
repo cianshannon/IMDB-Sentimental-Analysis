@@ -4,7 +4,7 @@ This repository contains a Python project for sentimental analysis of IMDB movie
 
 ## Dataset
 
-The dataset used is the IMDB Dataset of 50K Movie Reviews available on Kaggle 'https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/data'. Ensure that the dataset file `IMDB_Dataset.csv` is available in the project directory or modify the file path in the script accordingly.
+The dataset used is the IMDB Dataset of 50K Movie Reviews available on Kaggle 'https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/data'. I was unable to add the `IMDB_Dataset.csv` file to GitHub as it was too large so it must be downloaded from Kaggle to use this project.
 
 ## Project Structure
 
