@@ -1,8 +1,6 @@
-# IMDB-Sentimental-Analysis
+# IMDB-Sentimental-Analysis-With-Random-Forest
 
-# Sentiment Analysis with Random Forest
-
-This repository contains a Python project for sentimental analysis on IMDB movie reviews. The project uses a Random Forest Classifier to predict sentiment from text data. It demonstrates data loading, cleaning, preprocessing, and modelling using sklearn's machine learning library.
+This repository contains a Python project for sentimental analysis of IMDB movie reviews. The project uses a Random Forest Classifier to predict sentiment from text data. It demonstrates data loading, cleaning, preprocessing, and modelling using Sklearn's machine-learning library.
 
 ## Dataset
 
@@ -16,7 +14,7 @@ The dataset used is the IMDB Dataset of 50K Movie Reviews available on Kaggle 'h
 
 - Data exploration including checking for missing values and duplicates.
 - Text data cleaning and preprocessing.
-- Conversion of text data into a suitable format for modeling using TF-IDF vectorization.
+- Conversion of text data into a suitable format for modelling using TF-IDF vectorization.
 - Sentiment prediction using a Random Forest Classifier.
 - Evaluation of the model's performance.
 
@@ -24,6 +22,6 @@ The dataset used is the IMDB Dataset of 50K Movie Reviews available on Kaggle 'h
 
 This project is built using Python and requires the following libraries:
 - pandas
-- numpy
+- NumPy
 - scikit-learn
 - re
