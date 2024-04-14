@@ -8,7 +8,7 @@ The dataset used is the IMDB Dataset of 50K Movie Reviews available on Kaggle 'h
 
 ## Project Structure
 
-- `IMDB_Sentimental_Analysis.py`: Jupyter Notebook file containing the full pipeline of the project including data cleaning, data preprocessing, model training, and evaluation.
+- `IMDB_Sentimental_Analysis.ipynb`: Jupyter Notebook file containing the full pipeline of the project including data cleaning, data preprocessing, model training, and evaluation.
 
 ## Features
 
